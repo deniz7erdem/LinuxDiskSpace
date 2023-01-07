@@ -2,7 +2,7 @@
 Linux'de boş disk alanınızı GUI'de gösteren Shell kodu
 
 ## Clone
-	$git clone https://github.com/deniz7erdem/rentDenyCar.git
+	$git clone https://github.com/deniz7erdem/LinuxDiskSpace.sh
   
 ## Çalıştırmak için
 	bash LinuxDiskSpace.sh
